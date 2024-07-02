@@ -1,0 +1,5 @@
+export { default as MortageCalculator } from './MortageCalculator.vue'
+export { default as YourResults } from './YourResults.vue'
+export { default as ResultsShownHere } from './ResultsShownHere.vue'
+export { default as ButtonComponent } from './ButtonComponent.vue'
+export { default as ErrorSpan } from './ErrorSpan.vue'
